@@ -1,4 +1,17 @@
+# Postman / Newman
+postman-newman/results/
+postman-newman/node_modules/
+
+# Java / Maven
 target/
+*.class
 .idea/
 *.iml
+.eclipse/
+.classpath
+.project
+.settings/
+
+# OS Files
 .DS_Store
+Thumbs.db
